@@ -1,29 +1,104 @@
 <html>
   <head>
-  	<link rel="stylesheet" type="text/css" href="index.css">
-
   	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<style type="text/css">
+		body {
+			--background: #111;
+			--primary: #c4f13f;
+			--secondary: #f13fda;
+			background-color: var(--background);
+			font-family: 'Ubuntu Mono', monospace;
+			color: var(--primary);
+		}
+		
+		#main {
+			height: 100%;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-around;
+		}
 
+		.link {
+			background-clip: content-box;
+			color: var(--primary);
+			text-decoration: none;
+		}
+
+		.link:hover {
+			color: var(--secondary);
+		}
+
+		.journal {
+			background-clip: content-box;
+			color: var(--secondary);
+			text-decoration: none;
+		}
+
+		.journal:hover {
+			color: var(--primary);
+		}
+
+	</style>
+	<script type="text/javascript">
+		window.onload = () => {		
+			template = [
+				["https://twitter.com/ratfoob", "twitter"],
+				["https://ko-fi.com/punishedrat", "ko-fi"],
+				["https://rat-food.newgrounds.com", "newgrounds"],
+				["/comissons", "comissons"],
+				["/bio", "bio"],
+				["/", "website"]
+			]
+
+			main = document.getElementById("main")
+			let cont = document.createElement("DIV")
+			let link = document.createElement("A")
+			link.href = "/journal"
+			link.innerText = "journal"
+			link.style.fontSize = 3 + 2 * Math.random() + "em"
+			if(Math.random() > 0.5){
+				link.style.marginLeft = 50 * Math.random() + "%"
+			} else {
+				link.style.marginRight = 50 * Math.random() + "%"
+				link.style.float = "right"
+			}
+			cont.className = "spacer"
+			link.className = "journal"
+			cont.appendChild(link)
+			main.prepend(cont)
+				
+
+			for(s of template){
+			console.log("a")
+
+
+				cont = document.createElement("DIV")
+				link = document.createElement("A")
+				link.href = s[0]
+				link.innerText = s[1]
+				link.style.fontSize = 3 + 2 * Math.random() + "em"
+				if(Math.random() > 0.5){
+					link.style.marginLeft = 50 * Math.random() + "%"
+				} else {
+					link.style.marginRight = 50 * Math.random() + "%"
+					link.style.float = "right"
+				}
+				cont.className = "spacer"
+				link.className = "link"
+				cont.appendChild(link)
+				below = main.children[Math.floor(main.children.length*Math.random())]
+				main.insertBefore(cont, below)
+			}
+		}
+
+	</script>
     <title></title>
   </head>
   <body>
-  	<div class="main">
-	  	<h1 class="title"> welcome rat nation </h1>
-	  	<div>
-		  	<a href="https://ko-fi.com/punishedrat" class="link">ko-fi (commissions and tips)</a><br>
-		  	<a href="https://twitter.com/ratfoob" class="link">twitter (media tab for art)</a><br>
-		  	<a href="https://rat-food.newgrounds.com/" class="link">newgrounds</a><br>
-		  	<a href="https://ratfoob.carrd.co/#abt" class="link">more about me</a><br>
-	  	</div>
-  	</div>
-	<div class="main">
-	  	<h1 class="title"> commisions info </h1>
-	  	<p>
-			uncolored sketch: $30 <br>
-			fully colored and celshaded sketch: $50 <br>
-			just ask about extra characters or whatever extra elements it's pretty variable
-	  	</p>
-  	</div>
+  	<div id="main">
+  		<div></div> 
+  		<!-- placeholder -->
+  	</dir>
   </body>
 </html>
