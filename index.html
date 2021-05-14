@@ -39,6 +39,14 @@
 			color: var(--primary);
 		}
 
+		.footer {
+			position: fixed;
+			bottom: 0;
+			right: 0;
+			padding: 4px;
+			color: #252525;
+		}
+
 	</style>
 	<script type="text/javascript">
 		window.onload = () => {		
@@ -54,7 +62,7 @@
 			main = document.getElementById("main")
 			let cont = document.createElement("DIV")
 			let link = document.createElement("A")
-			link.href = "/journal.md"
+			link.href = "/journal.html"
 			link.innerText = "journal"
 			link.style.fontSize = 3 + 2 * Math.random() + "em"
 			if(Math.random() > 0.5){
@@ -101,4 +109,5 @@
   		<!-- placeholder -->
   	</dir>
   </body>
+  	<a class="footer" href="https://twitter.com/thetimgor">yoko!?</a>
 </html>

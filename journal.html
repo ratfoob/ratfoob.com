@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		body {
+			--background: #111;
+			--primary: #c4f13f;
+			--secondary: #f13fda;
+			background-color: var(--background);
+			font-family: 'Ubuntu Mono', monospace;
+			color: var(--primary);
+		}
+		#content {
+			margin-left: 50px;
+			width: 50%;
+		}
+		h1, h2, h3 {
+			color: var(--secondary);
+		} 
+	</style>
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+	<script>
+		window.onload = () => {
+			var content = document.getElementById('content')
+			fetch("journal.md")
+				.then(response => response.text())
+				.then(text => content.innerHTML = marked(text))
+
+		}
+	</script>
+	<title></title>
+</head>
+<body>
+	<div id="content"></div>
+</body>
+</html>
