@@ -16,6 +16,10 @@
 
 <i>hi! get nice friends. ban Pat Ocean.</i>
 
+<b>christ died for our sins according to the scriptures</b>
+
+<i>u did his shit, sir fur cringe corn cord? Crest Toothpaste</i>
+
 ## 5/14/2021 6:05AM
 
 toothpaste
