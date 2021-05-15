@@ -1,3 +1,7 @@
+## 5/15/2021 3:51PM
+
+i've been using discord zoomed in at 200% accidentally for the past year and now i can't use it at the intended level of zoom i'm so fucked up
+
 ## 5/15/2021 3:38PM
 
 it's no longer christmas day and i am tired
