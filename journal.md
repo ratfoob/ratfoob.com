@@ -1,3 +1,7 @@
+## 5/17/2021 12:03AM
+
+just invented timed travel. it's like regular travel, but with a stop watch
+
 ## 5/17/2021 12:01AM
 
 whoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
