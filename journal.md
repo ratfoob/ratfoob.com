@@ -1,3 +1,7 @@
+## 1/18/1965
+
+hey guys, it's me, from the PAST
+
 ## 5/16/2021 11:57PM
 
 WARIO'S GOLD MINE!!!!!!!!!!!!!!!!!!!!!!!!!!!!
