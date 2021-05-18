@@ -1,6 +1,8 @@
 ## 5/18/2021 9:12AM
 
-it's 9:12 am on a tuesday, which is kinda crazy if you think about it 
+<b>it's 9:12 am on a tuesday, which is kinda crazy if you think about it</b>
+
+<i>boy UI #219: a city kid tuhao(土豪) "zit fit" sandwich has mayonnaise</i>
 
 ## 5/17/2021 12:48AM
 
