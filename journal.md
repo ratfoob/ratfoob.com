@@ -12,7 +12,7 @@ music "genres" are a scam. slipknot and the mega man 2 soundtrack are realistica
 
 ## 5/17/2021 12:01AM
 
-whoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+whoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## 1/18/1965 1:29AM
 
