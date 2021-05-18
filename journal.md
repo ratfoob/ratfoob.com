@@ -2,7 +2,7 @@
 
 <b>it's 9:12 am on a tuesday, which is kinda crazy if you think about it</b>
 
-<i>boy UI #192: a city kid tuhao(土豪) "zit fit" sandwich has mayonnaise</i>
+<i>Boy UI #192: a city kid tuhao(土豪) "zit fit" sandwich has mayonnaise</i>
 
 <i>Romans 2:19 - ay, is SandwichAI zit an okay itch, kid? (YouTube: "HutFit")</i>
 
