@@ -1,10 +1,10 @@
+## 5/18/2021 9:12AM
+
+it's 9:12 am on a tuesday, which is kinda crazy if you think about it 
+
 ## 5/17/2021 12:48AM
 
 music "genres" are a scam. slipknot and the mega man 2 soundtrack are realistically indistinguishable 
-
-## 5/17/2021 12:03AM
-
-just invented timed travel. it's like regular travel, but with a stop watch
 
 ## 5/17/2021 12:01AM
 
