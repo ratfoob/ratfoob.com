@@ -4,6 +4,8 @@
 
 <i>boy UI #219: a city kid tuhao(土豪) "zit fit" sandwich has mayonnaise</i>
 
+<i>Romans 2:19 - ay, is SandwichAI zit an okay itch, kid? (YouTube: "HutFit")</i>
+
 ## 5/17/2021 12:48AM
 
 music "genres" are a scam. slipknot and the mega man 2 soundtrack are realistically indistinguishable 
