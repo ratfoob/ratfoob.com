@@ -1,3 +1,23 @@
+## 5/19/2021 11:30AM.anagram
+
+<b>hi i eat apples</b>
+
+<i>please hit a pi</i>
+
+<i>i-i pee asphalt...</i>
+
+<b>hey whats up</b>
+
+<i>yep, what's, uh...</i>
+
+<i>why apes hut</i>
+
+<i>'sup w/ the hay?</i>
+
+<b>yggdrasil yearns for yams</b>
+
+<i>fly, rad gays. yoga orgy seminars</i>
+
 ## 5/18/2021 9:12AM.anagram
 
 <b>it's 9:12 am on a tuesday, which is kinda crazy if you think about it</b>
