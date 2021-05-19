@@ -68,7 +68,7 @@ it's no longer christmas day and i am tired
 
 <b>lemony enemas</b>
 
-<i>nyan mess, lmao</i>
+<i>ya, melon semen</i>
 
 <b>the binding of isaac repentance</b>
 
