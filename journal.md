@@ -1,5 +1,9 @@
 ## 5/20/2021 9:20AM
 
+i've been considering making a website recently
+
+## 5/20/2021 9:20AM
+
 painting is unreasonably hard sometimes
 
 ## 5/19/2021 11:30AM.anagram
