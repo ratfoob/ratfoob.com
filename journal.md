@@ -1,8 +1,6 @@
-## 5/20/2021 9:20AM.anagram
+## 5/20/2021 9:20AM
 
-<b>getting really damned tired of only being able to make one piece a week, if that</b>
-
-<i>annoying bitch ate my DK figure. Wallet Edge, kill fat dirt pot neon dog obama. eeeeee</i>
+painting is unreasonably hard sometimes
 
 ## 5/19/2021 11:30AM.anagram
 
