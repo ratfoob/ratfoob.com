@@ -1,3 +1,7 @@
+## 5/20/2021 11:41AM
+
+the most deeply-held secrets to the universe could be stored on the second page of google and nobody would ever know
+
 ## 5/20/2021 9:20AM
 
 i've been considering making a website recently
